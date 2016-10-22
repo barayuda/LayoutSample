@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">LayoutSample</string>
+    <string name="hello_world" translatable="false">Hello world!</string>
+    <string name="action_bookmark" translatable="false">Bookmark</string>
+    <string name="requesttobook" translatable="false">Request to Book</string>
+    <string name="hotelowner" translatable="false">Barayuda (Owner)</string>
+    <string name="hotel_location" translatable="false">Jurassic World Avenue, Westisland, 87 miles of CostaRica</string>
+    <string name="hotel_name">Hilton Hotel Isla Nublar Resort</string>
+    <string name="book_price">$74</string>
+</resources>
